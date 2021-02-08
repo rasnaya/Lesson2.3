@@ -8,12 +8,10 @@ public class Task6 {
         } else {
             System.out.println("не четное");
         }
-if (abcd > 99 && abcd <= 999) {
+        if (abcd > 99 && abcd <= 999) {
     System.out.println("трехзначное");
 } else { System.out.println("не трехзначное");
 }
     }
-
-
 
 }
